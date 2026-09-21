@@ -19,7 +19,7 @@
         // Add CSS rules to apply greyscale filter
         GM_addStyle(`
             html, body {
-                filter: grayscale(100%);
+                filter: grayscale(90%);
             }
         `);
     }
